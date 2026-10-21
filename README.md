@@ -1,6 +1,6 @@
 ﻿# Windows Account Lifecycle Lab
 
-A guided beginner lab using Windows 11 and PowerShell to practise
+A guided lab using Windows 11 and PowerShell to practise
 joiner, mover and leaver account administration.
 
 ## Objective
